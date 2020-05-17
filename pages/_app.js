@@ -4,6 +4,8 @@ import { Provider } from 'react-redux';
 import { createWrapper } from 'next-redux-wrapper';
 import store from '../store';
 
+import '../style/main.css';
+
 class MyApp extends App {
     render() {
         const { Component, pageProps } = this.props;
