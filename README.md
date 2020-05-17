@@ -2,7 +2,7 @@ This project was created with Next.JS
 
 MVP BLOG REST API
 
-## `clone propject`
+## `clone project`
 
 ## Available Scripts
 
